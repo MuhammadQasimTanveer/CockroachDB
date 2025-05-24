@@ -22,7 +22,7 @@ A simple CockroachDB setup for learning, local deployment, and experimentation w
     
 
 🧪 Running SQL Queries
-     Create databases
-     Create tables
-     Insert data
-     Run your custom SQL queries  .
+       Create database
+       Create tables
+       Insert data
+       Run your custom SQL queries  .
