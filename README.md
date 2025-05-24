@@ -1,6 +1,6 @@
 �� CockroachDB Project
 
-A simple CockroachDB setup for learning, local deployment, and experimentation with SQL queries.
+          A simple CockroachDB setup for learning, local deployment, and experimentation with SQL queries.
 
 
 
@@ -21,8 +21,4 @@ A simple CockroachDB setup for learning, local deployment, and experimentation w
             .\cockroach.exe sql --insecure --host=127.0.0.1:26257)
     
 
-🧪 Running SQL Queries
-         Create database
-         Create tables
-         Insert data
-         Run your custom SQL queries  .
+🧪 Run SQL Queries 
