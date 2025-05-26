@@ -19,4 +19,4 @@
               .\cockroach.exe sql --insecure --host=127.0.0.1:26257)
     
 
-🧪 Run SQL Queries 
+# 🧪 Run SQL Queries 
