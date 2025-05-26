@@ -1,6 +1,6 @@
-####�� CockroachDB Project
+#### �� CockroachDB Project
 
--A simple CockroachDB setup for learning, local deployment, and experimentation with SQL queries.
+- A simple CockroachDB setup for learning, local deployment, and experimentation with SQL queries.
 
 📦 Download Installation File : (https://github.com/MuhammadQasimTanveer/CockroachDB/releases/tag/cockroachdb-v-25).
 
