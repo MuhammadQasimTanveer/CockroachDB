@@ -2,12 +2,12 @@
 
 A simple CockroachDB setup for learning, local deployment, and experimentation with SQL queries.
 
-📦 **Download Installation File**  
+**Download Installation File**  
 [Click here to download](https://github.com/MuhammadQasimTanveer/CockroachDB/releases/tag/cockroachdb-v-25)
 
 ---
 
-## 💻 How to Install & Run on Windows (Using PowerShell)
+### How to Install & Run on Windows (Using PowerShell)
 
     🔧 Step 1: Open PowerShell as Administrator.
     📁 Step 2: Copy and paste the path of your cockroach.exe file
