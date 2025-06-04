@@ -17,6 +17,3 @@
     🗃️ Step 5: Copy and paste the path of your cockroach.exe file
     📝Step 6: Along this Paste the following command 
               .\cockroach.exe sql --insecure --host=127.0.0.1:26257)
-    
-
-# 🧪 Run SQL Queries 
